@@ -1,0 +1,20 @@
+{
+    "dataset": {
+        "total_events": 19,
+        "total_phases": 4,
+        "shot_phases": 2,
+        "goal_phases": 0,
+        "defensively_disrupted_phases": 1
+    },
+    "shot_movement_patterns": {
+        "carry -> pass": 4,
+        "pass -> carry": 4
+    },
+    "movements_before_defensive_disruptions": {
+        "pass": 1
+    },
+    "broadcast_explanations": {
+        "attacking_pattern": "The sequence carry -> pass appeared 4 times in attacking phases that reached a shot. It is a recurring attacking sequence in this simulation.",
+        "defensive_reaction": "A pass was the last recorded attacking movement before a defensive disruption in 1 phases. This is worth examining as a possible defensive trigger."
+    }
+}

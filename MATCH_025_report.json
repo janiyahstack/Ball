@@ -1,0 +1,17 @@
+{
+    "dataset": {
+        "total_events": 21,
+        "total_phases": 4,
+        "shot_phases": 0,
+        "goal_phases": 0,
+        "defensively_disrupted_phases": 3
+    },
+    "shot_movement_patterns": {},
+    "movements_before_defensive_disruptions": {
+        "pass": 3
+    },
+    "broadcast_explanations": {
+        "attacking_pattern": "There were not enough recorded movement pairs before shots to identify a recurring pattern.",
+        "defensive_reaction": "A pass was the last recorded attacking movement before a defensive disruption in 3 phases. This is worth examining as a possible defensive trigger."
+    }
+}

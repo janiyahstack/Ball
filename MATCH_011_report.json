@@ -1,0 +1,15 @@
+{
+    "dataset": {
+        "total_events": 13,
+        "total_phases": 1,
+        "shot_phases": 0,
+        "goal_phases": 0,
+        "defensively_disrupted_phases": 0
+    },
+    "shot_movement_patterns": {},
+    "movements_before_defensive_disruptions": {},
+    "broadcast_explanations": {
+        "attacking_pattern": "There were not enough recorded movement pairs before shots to identify a recurring pattern.",
+        "defensive_reaction": "No preceding attacking movements could be identified for defensive disruptions."
+    }
+}
