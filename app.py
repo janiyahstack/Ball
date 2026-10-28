@@ -15,7 +15,7 @@ from broadcast import analyze_match
 # --------------------------------------------------
 
 st.set_page_config(
-    page_title="Ball | Football Intelligence",
+    page_title="TraceBall | Football Intelligence",
     page_icon="⚽",
     layout="wide"
 )
@@ -372,7 +372,7 @@ st.divider()
 
 st.markdown(
     '<div class="footer">'
-    'BALL · Football Movement Intelligence'
+    'TRACEBALL · Football Movement Intelligence'
     '</div>',
     unsafe_allow_html=True
 )
